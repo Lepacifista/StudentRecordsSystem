@@ -1,2 +1,6 @@
 StudentID,Name,Test1,Test2,Test3,Average,Grade
 "ST001","Isaac Oyaro",75.00,80.00,65.00,73.33,B
+"ST002","Mary Wanjiku",65.00,70.00,75.00,70.00,B
+"ST003","Peter Kamau",40.00,45.00,35.00,40.00,F
+"ST004","Grace Achieng",92.00,88.00,95.00,91.67,A
+"ST005","David Mwangi",55.00,60.00,50.00,55.00,D
