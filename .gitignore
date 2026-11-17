@@ -1,0 +1,15 @@
+# Compiled files
+build/
+*.o
+*.exe
+
+# Temporary files
+*.tmp
+
+# Automatic backups
+backups/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
